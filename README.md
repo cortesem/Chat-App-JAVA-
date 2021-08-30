@@ -1,5 +1,13 @@
 # Chat-App-JAVA-
 
+## Screenshots
+
+![Image of server running](images/Capture.PNG)
+*Server running in the terminal*
+
+![Image of two running clients](images/Capture1.PNG)
+*Two clients running*
+
 ## About this project
 * This was the begining of a project from my computer networks class. You may notice it's a bit of a mess, and unfinished. When I started working on this project, my goal was to first get something up and running that could send messages, then refine it into somthing a little better with more features. Unfortunatly COVID happened and the project was cancelled before I could finish it.
 * I managed to complete my first goal of getting something up and running, however, if you look at the source files you may notice some of the code is a bit messy (such as having client data inside the ui code).
@@ -28,10 +36,3 @@ private static final String HOST_NAME = "<Your ip here!>";
 > java P2P_Chat_Client_UI
 * You can run a number of chat clients at the same time by opening more terminals and running the above command. Or by connect with other computers on the same network (*This program won't connect outside of the local network it's running in*).
 
-## Screenshots
-
-![Image of server running](images/Capture.PNG)
-*Server running in the terminal*
-
-![Image of two running clients](images/Capture1.PNG)
-*Two clients running*
