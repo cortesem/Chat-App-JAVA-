@@ -29,3 +29,9 @@ private static final String HOST_NAME = "<Your ip here!>";
 * You can run a number of chat clients at the same time by opening more terminals and running the above command. Or by connect with other computers on the same network (*This program won't connect outside of the local network it's running in*).
 
 ## Screenshots
+
+![Image of server running](https://github.com/mcortese89/Chat-App-JAVA-/blob/cf9986cff52784aefd93cd82d6bcbe4bef6b9949/images/Capture.PNG)
+*Server running in the terminal*
+
+![Image of two running clients](https://github.com/mcortese89/Chat-App-JAVA-/blob/cf9986cff52784aefd93cd82d6bcbe4bef6b9949/images/Capture1.PNG)
+*Two clients running*
