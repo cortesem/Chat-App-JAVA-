@@ -30,8 +30,8 @@ private static final String HOST_NAME = "<Your ip here!>";
 
 ## Screenshots
 
-![Image of server running](https://github.com/mcortese89/Chat-App-JAVA-/blob/cf9986cff52784aefd93cd82d6bcbe4bef6b9949/images/Capture.PNG)
+![Image of server running](images/Capture.PNG)
 *Server running in the terminal*
 
-![Image of two running clients](https://github.com/mcortese89/Chat-App-JAVA-/blob/cf9986cff52784aefd93cd82d6bcbe4bef6b9949/images/Capture1.PNG)
+![Image of two running clients](images/Capture1.PNG)
 *Two clients running*
